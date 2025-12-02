@@ -1,4 +1,3 @@
-### 📝 Project Overview (프로젝트 개요)
 # 🚀 MNIST End-to-End MLOps Pipeline (ViT & Docker)
 
 > **'Data → Modeling → Serving → Deploy' 로 이어지는 MLOps의 전체 사이클을 경험하는 것에 중점을 두었습니다.."**
