@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+mlflow
+transformers
+scikit-learn
+pandas
+tqdm
+matplotlib
+pillow

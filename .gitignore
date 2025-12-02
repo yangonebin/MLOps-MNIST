@@ -1,0 +1,21 @@
+# .gitignore
+# 가상환경 폴더 (용량 큼, 올리면 안 됨)
+venv/
+.venv/
+
+# 데이터셋 (용량 큼)
+data/
+
+# 학습된 모델 (100MB 넘어서 못 올라감)
+models/*.pth
+
+# MLflow 로그 (지저분함)
+mlruns/
+
+# 파이썬 캐시 파일
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Docker 관련 로그 등
+.pytest_cache/
