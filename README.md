@@ -1,6 +1,6 @@
 # 🚀 MNIST End-to-End MLOps Pipeline (ViT & Docker)
 
-> **'Data → Modeling → Serving → Deploy' 로 이어지는 MLOps의 전체 사이클을 경험하는 것에 중점을 두었습니다.."**
+> **'Data → Modeling → Serving → Deploy' 로 이어지는 MLOps의 전체 사이클을 경험하는 것에 중점을 두었습니다."**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
